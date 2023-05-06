@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\WebAPI\\PhotoSite\\PhotoSite\\PhotoSite.BackgroundService\\PhotoSite.BackgroundService.csproj": {}
+    "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\PhotographyWebsite\\WebAPI\\PhotoSite\\PhotoSite.BackgroundService\\PhotoSite.BackgroundService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\WebAPI\\PhotoSite\\PhotoSite\\PhotoSite.BackgroundService\\PhotoSite.BackgroundService.csproj": {
+    "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\PhotographyWebsite\\WebAPI\\PhotoSite\\PhotoSite.BackgroundService\\PhotoSite.BackgroundService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\WebAPI\\PhotoSite\\PhotoSite\\PhotoSite.BackgroundService\\PhotoSite.BackgroundService.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\PhotographyWebsite\\WebAPI\\PhotoSite\\PhotoSite.BackgroundService\\PhotoSite.BackgroundService.csproj",
         "projectName": "PhotoSite.BackgroundService",
-        "projectPath": "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\WebAPI\\PhotoSite\\PhotoSite\\PhotoSite.BackgroundService\\PhotoSite.BackgroundService.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\PhotographyWebsite\\WebAPI\\PhotoSite\\PhotoSite.BackgroundService\\PhotoSite.BackgroundService.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\WebAPI\\PhotoSite\\PhotoSite\\PhotoSite.BackgroundService\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\PhotographyWebsite\\WebAPI\\PhotoSite\\PhotoSite.BackgroundService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

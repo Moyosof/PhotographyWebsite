@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\WebAPI\\PhotoSite\\PhotoSite\\PhotoSite.Application\\PhotoSite.Application.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\PhotographyWebsite\\WebAPI\\PhotoSite\\PhotoSite.Application\\PhotoSite.Application.csproj",
       "projectName": "PhotoSite.Application",
-      "projectPath": "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\WebAPI\\PhotoSite\\PhotoSite\\PhotoSite.Application\\PhotoSite.Application.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\PhotographyWebsite\\WebAPI\\PhotoSite\\PhotoSite.Application\\PhotoSite.Application.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\WebAPI\\PhotoSite\\PhotoSite\\PhotoSite.Application\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\PhotographyWebsite\\WebAPI\\PhotoSite\\PhotoSite.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

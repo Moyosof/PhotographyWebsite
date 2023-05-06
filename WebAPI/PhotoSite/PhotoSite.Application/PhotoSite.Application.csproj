@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Contracts\" />
+    <Folder Include="DataContext\" />
+    <Folder Include="EmailService\" />
+    <Folder Include="Filters\" />
+    <Folder Include="Helpers\" />
+  </ItemGroup>
+
 </Project>

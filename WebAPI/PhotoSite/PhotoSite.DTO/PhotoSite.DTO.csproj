@@ -7,8 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ServiceJobs\" />
-    <Folder Include="ServiceBase\" />
+    <Folder Include="EmailClients\" />
+    <Folder Include="Mapper\" />
+    <Folder Include="UserAuth\" />
+    <Folder Include="OAuth\" />
   </ItemGroup>
 
 </Project>

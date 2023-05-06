@@ -7,8 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ServiceJobs\" />
-    <Folder Include="ServiceBase\" />
+    <Folder Include="Contracts\" />
+    <Folder Include="EmailService\" />
+    <Folder Include="JwtToken\" />
   </ItemGroup>
 
 </Project>

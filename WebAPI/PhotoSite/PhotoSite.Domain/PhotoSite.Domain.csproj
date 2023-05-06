@@ -7,8 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ServiceJobs\" />
-    <Folder Include="ServiceBase\" />
+    <Folder Include="Entities\Auth\" />
+    <Folder Include="Entities\Core\" />
+    <Folder Include="Enums\" />
   </ItemGroup>
 
 </Project>

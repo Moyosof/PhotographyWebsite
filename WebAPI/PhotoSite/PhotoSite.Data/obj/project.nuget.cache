@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CBQd0dnO8HmWutWvk2LEoxKVVjP5AVLi/Wk4Ojd/sfjlAzVZNqKII6tEbSq6gvkLdkBTS2QkH5SlAERQ44zcag==",
+  "dgSpecHash": "5nhP7ZJJXujvWS0NLa5Zn+riaNQCyolKodPoBEStIuML20UvJ86/uZHJVQ1MXMERTi7El0QkMorU/gCSJeKRvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\WebAPI\\PhotoSite\\PhotoSite\\PhotoSite.Data\\PhotoSite.Data.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\CQRS&OnionPattern\\PhotographyWebsite\\WebAPI\\PhotoSite\\PhotoSite.Data\\PhotoSite.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

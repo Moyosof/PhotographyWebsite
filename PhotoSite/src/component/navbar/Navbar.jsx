@@ -7,8 +7,8 @@ const Navbar = () => {
     <div>
         
            
-            <div className='nav flex'>
-            <NavLink to='/'>
+            <div className='flex justify-between'>
+            <NavLink to='/' className="text-">
                     <h1>LOGO</h1>
                 </NavLink>
             <ul className="">
